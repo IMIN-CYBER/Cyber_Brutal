@@ -22,5 +22,7 @@ $ python3 -m pip install --upgrade pip
 
 $ git clone https://github.com/IMIN-CYBER/Cyber_Brutal
 
-$ python Brutal.py
+$ cd Cyber_Brutal
+
+$ python Cyber_Brutal.py
 
