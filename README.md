@@ -20,7 +20,7 @@ $ pkg install python3
 
 $ python3 -m pip install --upgrade pip
 
-$ git clone https://github.com/IMIN-CYBER/Blue_Brutal
+$ git clone https://github.com/IMIN-CYBER/Cyber_Brutal
 
 $ python Brutal.py
 
